@@ -1,0 +1,9 @@
+((fn [x] (str (x 3))) (fn [x] (+ 1 x)))
+;(map (fn [x] (str x)) [1 2 3])
+;((fn [x] (x 3)) (fn [y] (+ 1 y)))
+
+;(str 2)
+;(fn [x] (x 3))
+
+;(.log console (.getElementById document 'foo'))
+
